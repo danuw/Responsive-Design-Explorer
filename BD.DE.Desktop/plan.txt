@@ -1,0 +1,8 @@
+﻿
+
+Intention is to display screen design for Mobile, Tablet and Desktop (or simply different sizes/types) in parallele/at the same time on the screen.
+
+Start from root (contains the parallele root folders for each view, e.g. <path to root>/Mobile, <path to root>/Desktop, <path to root>/Tablet).
+(Either load the all tree recursively at once, or get chilren as we go through expanding the tree)
+For each, file, have a dictionnary of its name and full path for each screen size: in order for that, there will be a pattern to clean name to ensure we can match them, such as removing the screen size name, spaces, certain characters such as ('_' and '-')
+Bind to view

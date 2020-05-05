@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="BD.DE.Desktop.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <startup>
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5" />
+    </startup>
+    <userSettings>
+        <BD.DE.Desktop.Properties.Settings>
+            <setting name="MobileFolderName" serializeAs="String">
+                <value>Mobile</value>
+            </setting>
+            <setting name="TabletFolderName" serializeAs="String">
+                <value>Tablet</value>
+            </setting>
+            <setting name="DesktopFolderName" serializeAs="String">
+                <value>Desktop</value>
+            </setting>
+            <setting name="LatestUpdate" serializeAs="String">
+                <value>06/25/2015 16:12:00</value>
+            </setting>
+            <setting name="RootFolder" serializeAs="String">
+                <value>.\demo</value>
+            </setting>
+        </BD.DE.Desktop.Properties.Settings>
+    </userSettings>
+</configuration>

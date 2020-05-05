@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BD.DE.Desktop.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MobileFolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Mobile</Value>
+    </Setting>
+    <Setting Name="TabletFolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tablet</Value>
+    </Setting>
+    <Setting Name="DesktopFolderName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Desktop</Value>
+    </Setting>
+    <Setting Name="LatestUpdate" Type="System.DateTime" Scope="User">
+      <Value Profile="(Default)">06/25/2015 16:12:00</Value>
+    </Setting>
+    <Setting Name="RootFolder" Type="System.String" Scope="User">
+      <Value Profile="(Default)">.\demo</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
